@@ -14,4 +14,4 @@ An AI-powered resume analyzer built with Streamlit and Groq API.
 4. Get your free API key from: https://console.groq.com
 
 5. Run the app:
-   streamlit run app.py
+   python -m streamlit run app.py
